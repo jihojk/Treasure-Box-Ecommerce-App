@@ -18,4 +18,4 @@ After, they can scroll through posts from other users, follow users they like, a
 
 
 ## Deployed Link
-https://project-3-treasurebox.herokuapp.com
+https://project-3-treasurebox.herokuapp.com/
